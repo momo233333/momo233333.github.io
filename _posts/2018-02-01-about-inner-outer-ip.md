@@ -15,7 +15,16 @@ author: SnakeSon
 内网：
 
 > 内网也就是局域网，内网的计算机以NAT（[网络地址转换](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2)）协议，通过一个公共的[网关](https://baike.baidu.com/item/%E7%BD%91%E5%85%B3)访问Internet。内网的计算机可向Internet上的其他计算机发送连接请求，但Internet上其他的计算机无法向内网的计算机发送连接请求。
+>>2.0第二层
+>>>3.0第三层
+---
+##下面是代码：
 
+```
+import requests
+print("hello")
+```
+---
 > 最直观的就是像网吧，公司内部的电脑用交换机，HUB，路由连起来的
 
 
